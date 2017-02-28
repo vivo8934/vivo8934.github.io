@@ -1,5 +1,5 @@
 body {
-  margin: auto;
+  margin: 0;
   padding: 0;
 }
 /*.introduction {
@@ -114,7 +114,7 @@ img.towerM{
   height: 400px;
   background-color: #c2c9d3;
   border: solid;
-  
+
 }
 #Timage{
   width 50%
