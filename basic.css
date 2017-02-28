@@ -1,0 +1,132 @@
+body {
+  margin: auto;
+  padding: 0;
+}
+/*.introduction {
+  background-color: rgba(255, 255, 255, 0.9);
+  overflow-y: auto;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}*/
+#header{
+font-family: arial-black
+  top: 0;
+ text-align: center;
+ font-size: 32px;
+}
+#tableMountain{
+  height: 300px;
+  width:initial;
+  background-color: #c2c9d3;
+  }
+img{
+  height: 300px;
+  width:600px
+}
+img.tableM{
+  float: right;
+  margin-top: -75px;
+}
+img.rio{
+  float:left;
+  margin-bottom: -40px;
+  border-radius: 60%;
+}
+.CITY{
+  width: 100%;
+  height: 350px
+}
+.city-content{
+  width: 50%;
+  height: 300px;
+
+}
+.paragraph{
+  width: 50%;
+  float: right;
+  height: 300px;
+}
+.languages{
+  background-color: #c2c9d3;
+  width: 100%;
+  height: 300px;
+}
+.waterfront{
+  width: 100%;
+  height: 600px;
+
+}
+.clockImage{
+  width: 50%;
+  height:400px;
+}
+#clockTower{
+  width: 50%;
+}
+#tower{
+  width: 50;
+  height: 200px;
+}
+.vivo{
+  height: 400px;
+
+}
+img.Simage{
+  float: right;
+}
+.Swing{
+  width: 100%;
+  height: 400px;
+}
+#bridgeImage{
+  width 50%
+  height: 300px
+}
+.facts{
+  width: 50%
+  heigth: 300px;
+}
+.Portswoord{
+  width: 100%;
+  height: 400px;
+}
+#port{
+  width: 50%;
+  height: 350px;
+  float: right;
+}
+.clockTower{
+  width: 100%;
+  height: 400px;
+}
+#Cimage{
+  width: 50%;
+  height: 400px;
+}
+img.towerM{
+  float: right;
+}
+.ClockT{
+  width: 100%;
+  height: 400px;
+  background-color: #c2c9d3;
+  border: solid;
+  
+}
+#Timage{
+  width 50%
+  height: 300px
+}
+img.timage{
+  float: right;
+}
+.clock{
+  width: 50%
+  heigth: 300px;
+}
+.Historic{
+  border: solid 2px;
+}
